@@ -1,0 +1,12 @@
+Package: lsknots
+Type: Package
+Title: This package is about estimation of knots in Linear Spline Models
+Version: 1.0
+Date: 2022-01-05
+Author: Xian Lyu, Yumeng Guo, Yixuan Jiang, Shuqin Huang
+Maintainer: Xian Lyu <lyuxian@ruc.edu.cn>
+Description: The method used in this package to estimate knots is based on Guangyu Yang, Baqun Zhang & Min Zhang (2021) Estimation of Knots in Linear Spline Models, Journal of the American Statistical Association
+License: What license is it under?
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.1.1
